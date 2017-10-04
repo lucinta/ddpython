@@ -79,8 +79,8 @@ def buildblock(size):
 
 
 def usage():
-    print 'Untuk Linux & Windows Cara Menggunakannya : python IC-DDoS.py <url>'
-    print 'Untuk Termux Cara Menggunakannya : python2 IC-DDoS.py <url>'
+    print 'Untuk Linux & Windows Cara Menggunakannya : python DDoS.py <url>'
+    print 'Untuk Termux Cara Menggunakannya : python2 DDoS.py <url>'
     print "\a"
 
 
