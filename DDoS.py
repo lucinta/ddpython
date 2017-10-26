@@ -79,6 +79,7 @@ def buildblock(size):
 
 
 def usage():
+    print 'Note : Harus Pake http'
     print 'Untuk Linux & Windows Cara Menggunakannya : python DDoS.py <url>'
     print 'Untuk Termux Cara Menggunakannya : python2 DDoS.py <url>'
     print "\a"
